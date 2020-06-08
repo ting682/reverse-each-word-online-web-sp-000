@@ -7,6 +7,6 @@ def reverse_each_word(text)
 
     end
     #newText = reverse_word.split(" ")
-    #newText.join(" ")
+    collect_return.join(" ")
 
 end
